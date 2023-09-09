@@ -213,6 +213,10 @@ header .scroll-bar{
     width:60%;
 }
 
+.about .row .progress-bar .progress:nth-child(4) .bar span{
+    width:40%;
+}
+
 .about .row .presonal-info{
     flex:1 1 55rem;
     padding:1rem;
